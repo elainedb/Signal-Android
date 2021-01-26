@@ -24,6 +24,7 @@ sonarqube {
   properties {
     property "sonar.projectKey", "elainedb_Signal-Android"
     property "sonar.organization", "elainedb"
+    property "sonar.projectName", "android_signal"
     property "sonar.host.url", "https://sonarcloud.io"
   }
 }
